@@ -1,2 +1,1 @@
-# tbr
-The Bright Road - Offical
+# The Bright Road - Official Website
